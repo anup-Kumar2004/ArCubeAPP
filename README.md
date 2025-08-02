@@ -30,14 +30,14 @@ This is an Augmented Reality (AR) Android application that allows users to place
 
 ## 📸 Screenshots
 
-### 👇 Floor Detection
-![Floor Detection](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.01.jpeg)
+### 👇 Drill Selector
+![Selecting Drill Using DropDown](img1.jpeg)
 
-### 🧱 AR Cube Placement
-![Cube Placement](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.02.jpeg)
+### 🧱 Floor Detection
+![Dotted Grids](img2.jpeg)
 
-### 🔄 Transformable Cube
-![Transform Interaction](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.03.jpeg)
+### 🔄 AR Cube Placement
+![Red Cube Placement](img3.jpeg)
 
 
 ---
