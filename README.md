@@ -26,27 +26,27 @@ This is an Augmented Reality (AR) Android application that allows users to place
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Tech Stack
 
-InternProjectDemoArApp/
-├── .idea/ # Android Studio project configs
-├── app/ # Main application module
-│ ├── src/
-│ │ └── main/
-│ │ └── java/
-│ │ └── com/example/internprojectdemoarapp/
-│ │ ├── MainActivity.java
-│ │ └── ARActivity.java
-├── gradle/ # Gradle wrapper files
-├── screenshots/ # Screenshots used in README
-│ ├── img1.jpg
-│ ├── img2.jpg
-│ └── img3.jpg
-├── .gitignore # Git ignore file
-├── build.gradle.kts # Project-level Gradle build file
-├── gradle.properties # Gradle properties
-├── gradlew # Gradle wrapper script (Unix)
-├── gradlew.bat # Gradle wrapper script (Windows)
-├── local.properties # SDK location and local settings
-├── README.md # Project documentation
-└── settings.gradle.kts # Gradle settings file
+- Java ☕
+- ARCore 📱
+- Sceneform 🧱
+- Android Studio 🧰
+- Git & GitHub 🌐
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo  
+   `git clone https://github.com/anup-Kumar2004/ArCubeAPP.git`
+
+2. Open in Android Studio  
+   File → Open → Select `InternProjectDemoArApp` folder
+
+3. Connect your ARCore-supported Android device
+
+4. Run the app!
+
+---
+
