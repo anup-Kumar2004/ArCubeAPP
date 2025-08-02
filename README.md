@@ -20,8 +20,6 @@ This is an Augmented Reality (AR) Android application that allows users to place
 
 \- 🔁 Replaces the cube if another location is tapped.
 
-\- 🌐 Supports light estimation and real-world lighting using Sceneform.
-
 \- 🧭 Tap gesture recognition and object anchoring with `TransformableNode`.
 
 
@@ -30,12 +28,16 @@ This is an Augmented Reality (AR) Android application that allows users to place
 
 
 
-\## 📸 Demo
+## 📸 Screenshots
 
+### 👇 Floor Detection
+![Floor Detection](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.01.jpeg)
 
+### 🧱 AR Cube Placement
+![Cube Placement](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.02.jpeg)
 
-> \_(Add screenshots here later if needed, or record a short video of usage)\_
-
+### 🔄 Transformable Cube
+![Transform Interaction](screenshots/WhatsApp%20Image%202025-08-02%20at%2010.11.03.jpeg)
 
 
 ---
